@@ -1,5 +1,5 @@
 # testRepoCreation
 
-só
-bors
+egy
+kettő
 paprika
