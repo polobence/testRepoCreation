@@ -1,5 +1,5 @@
 # testRepoCreation
 
-alma
-banán
-szőlő
+korte
+eper
+dinnye
