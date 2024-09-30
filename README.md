@@ -1,5 +1,5 @@
 # testRepoCreation
 
-alma
-banán
-szőlő
+só
+bors
+paprika
