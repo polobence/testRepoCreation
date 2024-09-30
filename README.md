@@ -1,10 +1,5 @@
 # testRepoCreation
 
-# valami
-valami
-
-
-### hello
-hello
-### world
-world
+alma
+banán
+szőlő
